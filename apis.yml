@@ -10,15 +10,48 @@ tags:
   - Foodservice
   - Wholesale
   - Restaurants
-description: The Chefs' Warehouse is a premier distributor of specialty food products to high-end independent restaurants, fine dining establishments, country clubs, hotels, caterers, culinary schools, bakeries, and specialty food stores in North America and the Middle East. The company offers a broad portfolio of artisan, exotic, and signature ingredients. Chefs' Warehouse does not currently publish a public developer portal or API.
+  - Ecommerce
+  - B2B Commerce
+  - Supply Chain
+description: >-
+  The Chefs' Warehouse, Inc. (NASDAQ: CHEF) is a premier distributor of
+  specialty food products to high-end independent restaurants, fine dining
+  establishments, country clubs, hotels, caterers, culinary schools, bakeries,
+  and specialty food stores across North America and the Middle East. The
+  company offers a broad portfolio of artisan, exotic, and signature
+  ingredients spanning center-of-the-plate proteins, specialty dry goods,
+  produce, pastry, cheese and charcuterie, dairy and eggs, oils and vinegars,
+  and kitchen supplies. Customers order through a B2B e-commerce platform
+  (re-platformed to Optimizely B2B in 2021, previously Magento) and companion
+  iOS and Android wholesale-ordering apps built in partnership with Unbound
+  Commerce. As of this profiling, Chefs' Warehouse does not publish a public
+  developer portal, API documentation, SDKs, or open-source repositories; its
+  digital surface is a buyer-facing ordering experience rather than a
+  programmatic API. This profile documents the company's public footprint for
+  the API Evangelist network.
 created: '2026-05-04'
-modified: '2026-05-04'
+modified: '2026-06-02'
 specificationVersion: '0.19'
 common:
-  - type: LinkedIn
-    url: https://www.linkedin.com/company/the-chefs-warehouse
   - type: Website
     url: https://www.chefswarehouse.com
+  - type: OrderingPortal
+    url: https://order.chefswarehouse.com
+    title: B2B Ordering Portal
+  - type: Application
+    url: https://apps.apple.com/us/app/chefs-warehouse/id1287617737
+    title: iOS Ordering App
+  - type: Application
+    url: https://play.google.com/store/apps/details?id=com.chefswarehouse.app
+    title: Android Ordering App
+  - type: InvestorRelations
+    url: https://investors.chefswarehouse.com
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/the-chefs-warehouse
+  - type: GitHubOrganization
+    url: https://github.com/chefswarehouse
+    title: GitHub Organization (no public repositories)
 maintainers:
-  - FN: API Evangelist
+  - FN: Kin Lane
+    email: kin@apievangelist.com
     url: https://apievangelist.com
