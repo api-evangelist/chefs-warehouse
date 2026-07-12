@@ -33,6 +33,8 @@ created: '2026-05-04'
 modified: '2026-06-02'
 specificationVersion: '0.19'
 common:
+  - type: DomainSecurity
+    url: security/chefs-warehouse-domain-security.yml
   - type: Website
     url: https://www.chefswarehouse.com
   - type: OrderingPortal
