@@ -42,7 +42,7 @@ description: >-
   the API Evangelist network.
 created: '2026-05-04'
 modified: '2026-06-02'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 common:
   - type: DomainSecurity
     url: security/chefs-warehouse-domain-security.yml
