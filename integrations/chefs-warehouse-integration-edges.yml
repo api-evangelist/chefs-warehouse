@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/chefs-warehouse/integrations
+- https://n8n.io/integrations/chefs-warehouse/
+- https://composio.dev/toolkits/chefs-warehouse
+- https://monid.ai/tools/chefs-warehouse
+checked:
+- https://composio.dev/toolkits/chefs-warehouse
+- https://monid.ai/tools/chefs-warehouse
+- https://n8n.io/integrations/chefs-warehouse/
+- https://zapier.com/apps/chefs-warehouse/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
