@@ -1,4 +1,4 @@
-# Chefs' Warehouse (chefs-warehouse)
+# Chefs' Warehouse
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,31 +66,78 @@
 
 The Chefs' Warehouse, Inc. (NASDAQ: CHEF) is a premier distributor of specialty food products to high-end independent restaurants, fine dining establishments, country clubs, hotels, caterers, culinary schools, bakeries, and specialty food stores across North America and the Middle East. The company offers a broad portfolio of artisan, exotic, and signature ingredients spanning center-of-the-plate proteins, specialty dry goods, produce, pastry, cheese and charcuterie, dairy and eggs, oils and vinegars, and kitchen supplies. Customers order through a B2B e-commerce platform (re-platformed to Optimizely B2B in 2021, previously Magento) and companion iOS and Android wholesale-ordering apps built in partnership with Unbound Commerce. As of this profiling, Chefs' Warehouse does not publish a public developer portal, API documentation, SDKs, or open-source repositories; its digital surface is a buyer-facing ordering experience rather than a programmatic API. This profile documents the company's public footprint for the API Evangelist network.
 
-**URL:** [https://www.chefswarehouse.com](https://www.chefswarehouse.com)
+**Areas:** Food Distribution · Specialty Food · Food Service · Wholesale · Restaurant · E-Commerce · B2B Commerce · Supply Chain · Food and Beverage
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## Chefs' Warehouse on APIs.io
 
-## Tags:
+Everything profiled for Chefs' Warehouse is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/chefs-warehouse/](https://apis.io/providers/chefs-warehouse/)** — or go straight to one of the APIs or properties below.
 
- - Food Distribution, Specialty Food, Foodservice, Wholesale, Restaurants, Ecommerce, B2B Commerce, Supply Chain
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2026-05-04
-- **Modified:** 2026-06-02
+#### Security (1)
 
-## Common Properties
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Chefs Warehouse Domain Security](https://apis.io/security/chefs-warehouse/chefs-warehouse-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.chefswarehouse.com)
-- [B2B Ordering Portal](https://order.chefswarehouse.com)
-- [iOS Ordering App](https://apps.apple.com/us/app/chefs-warehouse/id1287617737)
-- [Android Ordering App](https://play.google.com/store/apps/details?id=com.chefswarehouse.app)
-- [InvestorRelations](https://investors.chefswarehouse.com)
-- [LinkedIn](https://www.linkedin.com/company/the-chefs-warehouse)
-- [GitHub Organization (no public repositories)](https://github.com/chefswarehouse)
+- [GitHub](https://github.com/chefswarehouse)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 3.8** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/chefs-warehouse/](https://apis.io/providers/chefs-warehouse/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Chefs' Warehouse: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/chefs-warehouse/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
